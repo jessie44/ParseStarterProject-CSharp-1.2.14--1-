@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\footb_000\downloads\parsestarterproject-csharp-1.2.14 (1)\parsestarterproject\obj\debug\intermediatexaml\parsestarterproject.exe" HashGuid="5a1dcc84-91e9-8809-32fa-026ccfb112f0" />
+    <ReferenceAssembly PathName="c:\users\footb_000\downloads\parsestarterproject-csharp-1.2.14 (1)\packages\facebook.6.4.2\lib\win8\facebook.dll" HashGuid="46d79226-db74-b782-65fc-40aee3d51e1a" />
+    <ReferenceAssembly PathName="c:\users\footb_000\downloads\parsestarterproject-csharp-1.2.14 (1)\parsestarterproject\lib\parse.dll" HashGuid="56a59377-b432-b486-e454-841394d4cf2a" />
+    <ReferenceAssembly PathName="c:\users\footb_000\downloads\parsestarterproject-csharp-1.2.14 (1)\parsestarterproject\lib\parse.winrt.dll" HashGuid="686a4480-5b84-291b-04f2-3ed7db81ad6f" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

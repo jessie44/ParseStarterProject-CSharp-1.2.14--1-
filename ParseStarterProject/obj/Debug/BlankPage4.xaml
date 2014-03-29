@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="ParseStarterProject.BlankPage4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ParseStarterProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RenderTransformOrigin="0.5,0.5">
+        <Grid.RenderTransform>
+            <CompositeTransform/>
+        </Grid.RenderTransform>
+        <Border Margin="489,417,472,119">
+            <Grid Margin="0,-10,0,10">
+                <TextBox HorizontalAlignment="Left" Margin="130,3,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="275"/>
+                <RadioButton Content="RadioButton" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox HorizontalAlignment="Left" Margin="130,102,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="275"/>
+                <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="0,105,0,0" VerticalAlignment="Top"/>
+                <TextBox HorizontalAlignment="Left" Margin="130,200,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="275"/>
+                <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="0,197,0,0" VerticalAlignment="Top"/>
+
+            </Grid>
+        </Border>
+        <TextBox HorizontalAlignment="Center" Margin="10,135,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="216" Width="428"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="471,675,0,0" VerticalAlignment="Top" Width="434"/>
+
+    </Grid>
+</Page>
+

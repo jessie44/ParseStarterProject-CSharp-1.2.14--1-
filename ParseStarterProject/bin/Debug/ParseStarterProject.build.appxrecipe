@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>USER</Machine>
+    <WindowsUser>footb_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5c765ba6-12a0-4a3d-8e7c-4389074b008a</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\ParseStarterProject.exe">
+      <PackagePath>ParseStarterProject.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\packages\Facebook.6.4.2\lib\win8\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\lib\Parse.dll">
+      <PackagePath>Parse.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\lib\Parse.WinRT.dll">
+      <PackagePath>Parse.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\Image1.png">
+      <PackagePath>Assets\Image1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\Untitled-1.png">
+      <PackagePath>Assets\Untitled-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\wall-background-wallpapers-2-2-s-307x512.jpg">
+      <PackagePath>Assets\wall-background-wallpapers-2-2-s-307x512.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\Assets\wassup.png.jpg">
+      <PackagePath>Assets\wassup.png.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\BlankPage2.xbf">
+      <PackagePath>BlankPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\BlankPage3.xbf">
+      <PackagePath>BlankPage3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\BlankPage5.xbf">
+      <PackagePath>BlankPage5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\footb_000\Downloads\ParseStarterProject-CSharp-1.2.14 %281%29\ParseStarterProject\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
